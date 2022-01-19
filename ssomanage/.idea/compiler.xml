@@ -15,10 +15,10 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="sso-cart" options="-parameters" />
+      <module name="sso-cart" options="" />
       <module name="sso-login" options="" />
       <module name="sso-main" options="" />
-      <module name="sso-vip" options="-parameters" />
+      <module name="sso-vip" options="" />
     </option>
   </component>
 </project>
